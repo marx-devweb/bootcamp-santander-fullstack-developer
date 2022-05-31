@@ -1,12 +1,10 @@
-# Título
+# Explorando Padrões de Projetos na Prática com Java
 
 
 
 
 
----
 
-> **PRÓXIMA AULA:** [](../)
 
 ---
 

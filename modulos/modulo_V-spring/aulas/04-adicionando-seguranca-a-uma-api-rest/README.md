@@ -1,4 +1,4 @@
-# Título
+# Adicionando Segurança a uma API REST com Spring Security
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [Desafios Intermediários Java](../05-desafios-intermediarios-java)
 
 ---
 
