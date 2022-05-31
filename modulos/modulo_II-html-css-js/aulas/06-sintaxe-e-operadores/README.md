@@ -1,4 +1,4 @@
-# Título
+# Sintaxe e Operadores
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [Variáveis e Tipos](../07-variaveis-e-tipos)
 
 ---
 

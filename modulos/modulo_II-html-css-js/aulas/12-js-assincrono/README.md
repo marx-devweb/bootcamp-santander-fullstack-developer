@@ -1,4 +1,4 @@
-# Título
+# JavaScript Assíncrono
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [Orientações a objetos](../13-orientacoes-a-objetos)
 
 ---
 

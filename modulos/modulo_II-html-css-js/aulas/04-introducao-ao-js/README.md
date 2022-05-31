@@ -1,4 +1,4 @@
-# Título
+# Introdução ao JavaScript
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [Sintaxe e Operadores](../06-sintaxe-e-operadores)
 
 ---
 

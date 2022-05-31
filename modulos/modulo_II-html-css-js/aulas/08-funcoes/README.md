@@ -1,4 +1,4 @@
-# Título
+# Funções
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [Coleções](../09-colecoes)
 
 ---
 

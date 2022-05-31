@@ -1,4 +1,4 @@
-# Título
+# Introdução Prática ao TypeScript
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMO MÓDULO:** [Módulo III - Angular](/modulos/modulo_III-angular)
 
 ---
 

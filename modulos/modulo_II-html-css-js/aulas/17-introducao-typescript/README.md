@@ -1,4 +1,4 @@
-# Título
+# Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [Introdução Prática ao TypeScript](../18-introducao-pratica-typescript)
 
 ---
 

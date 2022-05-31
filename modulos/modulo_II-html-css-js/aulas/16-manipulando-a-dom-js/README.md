@@ -1,4 +1,4 @@
-# Título
+# Manipulando a D.O.M com JavaScript
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces](../17-introducao-typescript)
 
 ---
 

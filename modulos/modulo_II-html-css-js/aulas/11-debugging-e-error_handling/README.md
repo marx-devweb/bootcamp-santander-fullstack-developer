@@ -1,4 +1,4 @@
-# Título
+# Debugging e Error Handling
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [JavaScript Assíncrono](../12-js-assincrono)
 
 ---
 

@@ -1,4 +1,4 @@
-# Título
+# Recriando a página inicial do Instagram
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [Introdução ao JavaScript](../04-introducao-ao-js)
 
 ---
 

@@ -1,4 +1,4 @@
-# Título
+# Coleções
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [Map, Filter e Reduce](../10-map-filter-e-reduce)
 
 ---
 

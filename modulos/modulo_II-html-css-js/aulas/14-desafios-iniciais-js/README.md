@@ -1,4 +1,4 @@
-# Título
+# Desafios Iniciais JavaScript
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [Trabalhando com Módulos em JavaScript](../15-trabalhando-com-modulos-em-js)
 
 ---
 
