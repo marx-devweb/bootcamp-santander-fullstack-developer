@@ -1,4 +1,4 @@
-# Título
+# Instalando e Preparando o Ambiente Angular
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [Explorando Diretivas com Angular](../05-explorando-diretivas)
 
 ---
 

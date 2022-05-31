@@ -1,4 +1,4 @@
-# Título
+# Criando um Front-end de um e-commerce utilizando Angular
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMO MÓDULO:** [Módulo IV - Java](/modulos/modulo_IV-java)
 
 ---
 

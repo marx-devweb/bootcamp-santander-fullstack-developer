@@ -1,4 +1,4 @@
-# Título
+# Dominando IDEs Java
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [Variáveis, Tipos de Dados e Operadores Matemáticos em Java](../02-variaveis-tipos_de_dados-operadores_matematicos)
 
 ---
 

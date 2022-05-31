@@ -1,4 +1,4 @@
-# Título
+# Tratamento de Exceções em Java
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [Debugging Java](../08-debugging)
 
 ---
 

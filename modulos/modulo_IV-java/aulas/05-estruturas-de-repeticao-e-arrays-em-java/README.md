@@ -1,4 +1,4 @@
-# Título
+# Estruturas de Repetições e Arrays em Java
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [Trabalhando com Collections Java](../06-trabalhando-com-collections)
 
 ---
 

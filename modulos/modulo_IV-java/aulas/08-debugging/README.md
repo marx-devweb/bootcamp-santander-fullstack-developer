@@ -1,4 +1,4 @@
-# Título
+# Debugging Java
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [Programação Orientadas a Objetos](../09-programacao-orientada-a-objetos)
 
 ---
 

@@ -1,4 +1,4 @@
-# Título
+# Implementando Serviços e Injeção de Dependências com Angular
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [Introdução a Serviços Assíncronos no Angular](../07-introducao-a-servicos-assincronos)
 
 ---
 

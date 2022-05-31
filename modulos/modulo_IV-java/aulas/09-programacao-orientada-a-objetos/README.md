@@ -1,4 +1,4 @@
-# Título
+# Programação Orientadas a Objetos
 
 
 
@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMA AULA:** [](../)
+> **PRÓXIMA AULA:** [Desafios Iniciais Java](../10-desafios-iniciais-java)
 
 ---
 
