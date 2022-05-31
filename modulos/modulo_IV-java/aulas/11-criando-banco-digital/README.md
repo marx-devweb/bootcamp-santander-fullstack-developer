@@ -6,7 +6,7 @@
 
 ---
 
-> **PRÓXIMO MÓDULO:** [Módulo V - Spring Framework](../modulo_V-spring)
+> **PRÓXIMO MÓDULO:** [Módulo V - Spring Framework](/modulos/modulo_V-spring)
 
 ---
 
