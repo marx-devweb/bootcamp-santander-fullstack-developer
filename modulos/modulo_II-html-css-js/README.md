@@ -1,4 +1,4 @@
-# Módulo II - HTML, CSS3 e Java Script
+# Módulo II - HTML, CSS3 e JavaScript
 
 - [Introdução a criação de websites com HTML5 e CSS3](aulas/01-introducao-criacao-websites-htmml5-e-css3)
 
