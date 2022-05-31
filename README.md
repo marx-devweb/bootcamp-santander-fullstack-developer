@@ -1,6 +1,6 @@
 # Bootcamp Santander Fullstack Developer 
 
-<img src="logo-bootcamp.png" style="width:100px; text-aling:center;"/>
+<img src="logo-bootcamp.png" style="width:100px;"/>
 
 > Este repositório têm a finalidade registra todo o aprendizado, as atividades e os projetos realizados no Bootcamp Santander Fullstack Developer. 
 >
