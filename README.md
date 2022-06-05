@@ -2,7 +2,7 @@
 
 <img src="logo-bootcamp.png" style="width:100px;"/>
 
-> Este repositório têm a finalidade registra todo o aprendizado, as atividades e os projetos realizados no Bootcamp Santander Fullstack Developer. 
+> Este repositório têm a finalidade de documetodo o aprendizado, as atividades e os projetos realizados no Bootcamp Santander Fullstack Developer. 
 >
 > O Bootcamp foi organizado pela [Santander | Bolsas](https://www.becas-santander.com/pt_br/index.html) é a [Digital Innovation One - DIO](https://web.dio.me/home).
 
