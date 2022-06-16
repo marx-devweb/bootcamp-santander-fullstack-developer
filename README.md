@@ -2,7 +2,7 @@
 
 <img src="logo-bootcamp.png" style="width:100px;"/>
 
-> Este repositório têm a finalidade de documentar todo o aprendizado, as atividades e os projetos realizados no Bootcamp Santander Fullstack Developer. 
+> Este repositório têm a finalidade de documentar as atividades e os projetos realizados no Bootcamp Santander Fullstack Developer. 
 >
 > O Bootcamp foi organizado pela [Santander | Bolsas](https://www.becas-santander.com/pt_br/index.html) é a [Digital Innovation One - DIO](https://web.dio.me/home).
 
@@ -17,6 +17,12 @@
 
 ---
 
+### Projetos Integradores 
+
+- [Landing Page - Flex Turismo]()
+
+---
+
 ### Desafios de código
 
 - [Desafios Iniciais - JavaScript](modulos/modulo_II-html-css-js/aulas/14-desafios-iniciais-js)
@@ -26,7 +32,7 @@
 
 ---
 
-### Desafios de projeto
+### Desafios de projetos
 
 - [Recriando a página inicial do Instagram](modulos/modulo_II-html-css-js/aulas/03-recriando-pagina-inicial-instagram)
 - [Introdução Prática ao TypeScript](modulos/modulo_II-html-css-js/aulas/18-introducao-pratica-typescript)
